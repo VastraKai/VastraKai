@@ -3,3 +3,4 @@
 - i'm very dumb
 - `VastraKai#0001` on discord
 - `@VastraKai` on twitter
+- https://discord.gg/f3E2ey4Q3M
