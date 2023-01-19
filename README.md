@@ -1,6 +1,4 @@
-- hi im kai
-- im a duck
-- i'm very dumb
+### hi im kai
 - `VastraKai#0001` on discord
 - `@VastraKai` on twitter
-- https://discord.gg/f3E2ey4Q3M
+- https://prax.wtf/mcm 
