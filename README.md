@@ -1,2 +1,2 @@
-# hello edest!!! 
-### stop stalking me :)
+# developer of Things™
+https://ratted.systems/emi
